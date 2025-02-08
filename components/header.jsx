@@ -89,6 +89,7 @@ export default async function Header() {
           <SignedOut>
             <SignInButton>
               <Button variant="outline">Sign In</Button>
+              <h2>To login for testing use email="demo@gmail.com" and password="passwordforemail"</h2>
             </SignInButton>
           </SignedOut>
 
