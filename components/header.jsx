@@ -34,7 +34,7 @@ export default async function Header() {
             className="h-12 py-1 w-auto object-contain"
           />
         </Link>
-            <h2>To login for testing use email="demo@gmail.com" and password="passwordforemail"</h2>
+            <h2>To login for testing use email="demo@gmail.com" and password="passwordfordemo"</h2>
 
         {/* Action Buttons */}
         <div className="flex items-center space-x-2 md:space-x-4">
