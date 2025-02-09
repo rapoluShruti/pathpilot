@@ -62,7 +62,7 @@ GEMINI_API_KEY=your_google_gemini_api_key
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-repo-link.git
+git clone https://github.com/rapoluShruti/pathpilot.git
 cd ai-career-coach
 ```
 
