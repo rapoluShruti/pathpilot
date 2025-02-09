@@ -4,6 +4,8 @@
 
 The **AI Career Coach** is a web application built with **Next.js 14** that helps users manage their professional development. It provides AI-powered tools for **resume building, cover letter generation, and interview preparation**, all powered by **Google's Gemini AI**.
 ![Overview](./public/ssai3.png)
+![To see all views click here](https://github.com/rapoluShruti/pathpilot/tree/main/public)
+https://github.com/rapoluShruti/pathpilot/tree/main/public
 
 ## ✨ Features
 
