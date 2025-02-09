@@ -110,6 +110,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📞 Contact
 
-- **Email:** your-email@example.com
-- **GitHub:** [Your GitHub](https://github.com/your-profile)
-- **Website:** [your-website.com](https://your-website.com)
+- **Email:** shrutirapolu@gmail.com.com
+- **GitHub:** [Your GitHub](https://github.com/rapoluShruti)
+
